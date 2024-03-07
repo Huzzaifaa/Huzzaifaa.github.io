@@ -1,7 +1,8 @@
 ---
 layout: resume
-title: Huzaifa Mehboob
 ---
+
+# Huzaifa Mehboob
 
 ## Contact Information
 
