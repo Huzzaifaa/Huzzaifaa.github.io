@@ -1,7 +1,3 @@
----
-layout: resume
----
-
 # My Resume Hosting Project
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Enabled-brightgreen)](https://yourusername.github.io/resume-repo/)
