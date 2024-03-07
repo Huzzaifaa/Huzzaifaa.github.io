@@ -1,4 +1,7 @@
-# Huzaifa Mehboob
+---
+layout: resume
+title: Huzaifa Mehboob
+---
 
 ## Contact Information
 
@@ -10,7 +13,7 @@
 
 ## Summary
 
-Results-oriented professional with 4 years of experience in Computer Science. Proven track record of coding. Adept at Leading and Managing. Seeking opportunities to leverage coding to contribute to my organization.
+Looking to put my coding skills to use for my organization. Four years experience with proven results. 
 
 ---
 
