@@ -1,6 +1,6 @@
----------
-layout : Just the Docs
----------
+---
+layout: resume
+---
 
 # My Resume Hosting Project
 
