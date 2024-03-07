@@ -1,74 +1,67 @@
 # My Resume Hosting Project
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Enabled-brightgreen)](https://yourusername.github.io/resume-repo/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 ## Table of Contents
 
-- [About](#about)
+- [Purpose](#purpose)
 - [Prerequisites](#prerequisites)
-- [First Steps](#first-steps)
-- [Resume](#resume)
-- [README](#readme)
-- [Static Site (Optional)](#static-site-optional)
+- [Instructions](#instructions)
+- [More Resources](#more-resources)
+- [Authors and Acknowledgements](#authors-and-acknowledgements)
+- [FAQs](#faqs)
 
-## About
+## Purpose
 
-This project aims to host a resume using GitHub Pages, adhering to the principles outlined in Andrew Etter's Modern Technical Writing.
+This project aims to not only host a resume using GitHub Pages by adhering to the principles outlined in Andrew Etter's Modern Technical Writing but also teaches how to do so. 
 
 ## Prerequisites
 
 Before getting started, ensure you have the following tools:
 
-- GitHub or Codeberg account
+- The first task for us is to create a GitHub or Codeberg account
 
-- Markdown editor of your choice
+- Secondly we would like to install a Markdown editor of our choice so that we can write our resume.
 
-- Static site generator (optional)
+- A Static site generator which is completely optional.
 
-## First Steps
+## Instructions
 
-### Markdown, Jekyll, and GitHub Pages Workshops:
+There were several layers to this project:
 
-- Learn Markdown, with a focus on GitHub Flavored Markdown (GFM).
-- Choose a Markdown editor based on your preference.
-- Set up a GitHub or Codeberg account if you don't have one.
+- Download a text editor that is compatible with Markdown syntax (R studio). 
 
-### Resume
+- Write down the Resume using Markdown utilizing its clear and concise formatting. Try to focus on Github flavored markdown 
+  
+  *Relating to Etter's Principles:*
+  
+   - **Clarity:** Use Markdown for clear and consistent formatting.
+   
+   - **Simplicity:** Leverage the simplicity of Markdown for a distraction-free writing experience.
 
-- Create a Markdown resume (e.g., `studentNumber_A2_resume_vx.md`) with up-to-date information.
+- Once the resume was completed, create a Github account,
 
-### README
+- Create your repository on your github account. 
 
-- Create a README (e.g., `studentNumber_A2_readme_vx.md`) using the provided instructions.
+- The repository is named as myusername.github.io. Please make sure to use your username when naming it and make it public. 
 
-## Resume
+- Upload your Markdown documents namely the "Resume" and "README" on the repository.  
 
-Your resume should be hosted on its own website within your user repository.
+  *Relating to Etter's Principles:*
+  
+   - **Collaboration:** Utilize version control in the repository for collaboration and tracking changes.
+   
+   - **User-Centric Approach:** Make your resume easily accessible through a version-controlled repository.
 
-## README
+- Lastly, access your github page link (make sure that it is hosted) to access your hosted resume.  
 
-### Title
-
-My Resume Hosting Project
-
-### Purpose
-
-Explain how to host a resume on GitHub Pages or Codeberg Pages, following Andrew Etter's Modern Technical Writing principles.
-
-### Prerequisites
-
-Include a resume formatted in Markdown.
-
-### Instructions
-
-Provide step-by-step instructions on hosting a resume and relate each step to the principles of Modern Technical Writing.
+   *Relating to Etter's Principles:*
+   
+   - **Accessibility:** Hosting on Pages makes your resume easily accessible to a wider audience.
 
 ### Animated Demo
 
-Include an animated gif demonstrating the process. ![Animated Demo](/assets/your_animated_demo.gif)
+Here is an animated gif that demonstrates the process ![Animated Demo](C:\Users\Owner\Downloads\ezgif.com-animated-gif-maker.gif)
 
-### More Resources
+## More Resources
 
 - [How to setup mark down](https://www.youtube.com/watch?v=DLLrcr9u_XI&ab_channel=DeAndreQueary)
 
@@ -79,17 +72,17 @@ Include an animated gif demonstrating the process. ![Animated Demo](/assets/your
 - [How to use Github](https://www.youtube.com/watch?v=tRZGeaHPoaw&ab_channel=KevinStratvert)
 
 
-### Authors and Acknowledgements
+## Authors and Acknowledgements
 
-Credit template authors and group members.
+- Dhairya and Rommel
 
-### FAQs
+## FAQs
 
-#### Why is Markdown better than a word processor?
+### Why is Markdown better than a word processor?
 
-Mark down is better than word processor because it is simple and easy to use. You can learn in quickly and it has better readability. Also, mark down is compatible with HTML which makes it even better.
+Mark down is better than word processor because it is simple and easy to use. You can learn in quickly and it has better readability. Also, mark down is compatible with HTML which makes it even better. You can write things in markdown multiple times faster than in a word processor. Markdown's compatibility also adds to it being a preference over word processor as it is very flexible and you can write it in any text editor that supports plain text such as a simple text document. 
 
-#### Why is my resume not showing up?
+### Why is my resume not showing up?
 
-There can be multiple reasons why your resume is not showing up on Github. The most common reason is that github is still processing it to get it hosted on your website. Another reason for it might be that there is a spelling error when you are looking up your website or you are looking it up incorrectly. Lastly, we want to make sure that our repository is public. 
+There can be multiple reasons why your resume is not showing up on Github. The most common reason is that github is still processing it to get it hosted on your website. Another reason for it might be that there is a spelling error when you are looking up your website or you are looking it up incorrectly. Lastly, we want to make sure that our repository is public because if it isn't public, we will be unable to locate your resume.  
 
