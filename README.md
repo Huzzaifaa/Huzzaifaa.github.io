@@ -59,7 +59,7 @@ There were several layers to this project:
 
 ### Animated Demo
 
-Here is an animated gif that demonstrates the process ![Animated Demo](C:\Users\Owner\Downloads\ezgif.com-animated-gif-maker.gif)
+Here is an animated gif that demonstrates the process ![Animated Demo](https://huzzaifaa.github.io/ezgif.com-animated-gif-maker.gif)
 
 ## More Resources
 
