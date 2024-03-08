@@ -28,38 +28,38 @@ Before getting started, ensure you have the following tools:
 There were several layers to this project:
 
 - Download a text editor that is compatible with Markdown syntax (R studio). 
+  
+  - To do this you can simply go to Google and type in the "download" and the name of the editor you would like to use
+  
+  - Click on the first link and download your editor
+  
+  ![Animated Demo]()
 
-- Write down the Resume using Markdown utilizing its clear and concise formatting. Try to focus on Github flavored markdown 
-  
-  *Relating to Etter's Principles:*
-  
-   - **Clarity:** Use Markdown for clear and consistent formatting.
-   
-   - **Simplicity:** Leverage the simplicity of Markdown for a distraction-free writing experience.
+- Once you have download R, write down the Resume using Markdown utilizing its clear and concise formatting. Try to focus on Github flavored markdown 
 
 - Once the resume was completed, create a Github account,
 
+  - To do this go to [Github](Github.com) and click on sign up.
+  
+  - Enter all the necessary details and your account will be created.
+  
+  ![Animated Demo]()
+
 - Create your repository on your github account. 
 
-- The repository is named as myusername.github.io. Please make sure to use your username when naming it and make it public. 
+  - To do this click on "new repository" on the top right hand corner of the page
+  
+  - The repository is named as myusername.github.io. Please make sure to use your username when naming it and make it public. 
+  
+  - For example, my username is Huzzaifaa, hence my repository's name would be Huzzaifaa.github.io
+  
+  ![My photo]()
 
 - Upload your Markdown documents namely the "Resume" and "README" on the repository.  
 
-  *Relating to Etter's Principles:*
-  
-   - **Collaboration:** Utilize version control in the repository for collaboration and tracking changes.
-   
-   - **User-Centric Approach:** Make your resume easily accessible through a version-controlled repository.
-
 - Lastly, access your github page link (make sure that it is hosted) to access your hosted resume.  
 
-   *Relating to Etter's Principles:*
-   
-   - **Accessibility:** Hosting on Pages makes your resume easily accessible to a wider audience.
-
-### Animated Demo
-
-Here is an animated gif that demonstrates the process ![Animated Demo](https://huzzaifaa.github.io/ezgif.com-animated-gif-maker.gif)
+  - To make sure the page is hosted, you can always click on "actions" tab and it will tell you if its still being processed or not.
 
 ## More Resources
 
@@ -74,9 +74,14 @@ Here is an animated gif that demonstrates the process ![Animated Demo](https://h
 
 ## Authors and Acknowledgements
 
-- Dhairya and Rommel
+- Dhairya and Minh gave me suggestions on how I could improve this readme. 
+
 
 ## FAQs
+
+###  Can I Add Additional Pages to My Resume Website?
+
+Yes, you can definitely add additional pages to your resume, all you have to do is add whatever you would like to in your mark down file and upload it on Github. Make sure that it has the same name as the file you would like to replace and you would have additional pages on the website 
 
 ### Why is Markdown better than a word processor?
 
