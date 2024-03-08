@@ -75,7 +75,9 @@ There were several layers to this project:
 
 ## Authors and Acknowledgements
 
-- Dhairya and Minh gave me suggestions on how I could improve this readme. 
+- Author: Huzaifa Mehboob.
+
+- Group Members: Dhairya and Minh gave me suggestions on how I could improve this readme and I thank them for their contributions. 
 
 
 ## FAQs
