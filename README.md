@@ -33,7 +33,7 @@ There were several layers to this project:
   
   - Click on the first link and download your editor
   
-  ![Animated Demo](https://huzzaifaa.github.io/R%20Gif.gif)
+  ![Animated Demo]()
 
 - Once you have download R, write down the Resume using Markdown utilizing its clear and concise formatting. Try to focus on Github flavored markdown 
 
@@ -43,8 +43,7 @@ There were several layers to this project:
   
   - Enter all the necessary details and your account will be created.
   
-  ![Animated Demo](https://huzzaifaa.github.io/g%20gif.gif)
-  
+  ![Animated Demo]()
 
 - Create your repository on your github account. 
 
@@ -54,7 +53,7 @@ There were several layers to this project:
   
   - For example, my username is Huzzaifaa, hence my repository's name would be Huzzaifaa.github.io
   
-  ![My photo](https://huzzaifaa.github.io/Repository.png)
+  ![My photo]()
 
 - Upload your Markdown documents namely the "Resume" and "README" on the repository.  
 
@@ -77,8 +76,7 @@ There were several layers to this project:
 
 - Author: Huzaifa Mehboob.
 
-- Group Members: Dhairya and Minh gave me suggestions on how I could improve this readme and I thank them for their contributions. 
-
+- Group Members: Dhairya and Minh gave me suggestions on how I could improve this readme and I thank them for their contributions.  
 
 ## FAQs
 
